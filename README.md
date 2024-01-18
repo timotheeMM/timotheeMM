@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @timotheeMM!
 
-* 👀 I’m interested in Linux, Python, JavaScript and Web Scraping.
 * 🌱 I love learning new technologies.
+* 👀 I’m interested in Linux, Python, JavaScript and Web Scraping.
 * 💞️ I’m looking to collaborate on Python projects and websites of all types.
 * 📫 How to reach me: You can contact me by opening an issue on this repository.
 
