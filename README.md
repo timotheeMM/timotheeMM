@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m @timotheeMM!
 
-* 🌱 I love learning new technologies.
-* 👀 I’m interested in Linux, Python, JavaScript and Web Scraping.
-* 💞️ I’m looking to collaborate on Python projects and websites of all types.
-* 📫 How to reach me: You can contact me by opening an issue on this repository.
+* 🌱 Passionate about embracing new technologies and continuously expanding my knowledge.
+* 👀 Specialized in Linux, Python, JavaScript, and proficient in Selenium WebDriver for web automation.
+* 💞️ Actively seeking collaboration opportunities on Python projects and diverse website developments.
+* 📫 Reach out to me: Feel free to contact me by opening an issue on this repository. I'm always open to discussions and collaboration!
 
 ### Statistics
 
