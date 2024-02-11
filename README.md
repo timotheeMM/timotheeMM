@@ -3,7 +3,7 @@
 * 🌱 Passionate about embracing new technologies and continuously expanding my knowledge.
 * 👀 Specialized in Linux, Python, JavaScript, and proficient in Selenium WebDriver for web automation.
 * 💞️ Actively seeking collaboration opportunities on Python projects and diverse website developments.
-* 📫 Reach out to me: feel free to contact me by opening an issue on this repository. I'm always open to discussions and collaboration!
+* 📫 Feel free to contact me by opening an issue on this repository. I'm always open to discussions and collaboration!
 
 ### Statistics
 
