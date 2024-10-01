@@ -23,13 +23,13 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/timotheeMM/gui-youtube-downloader/">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=timotheeMM&repo=gui-youtube-downloader&theme=buefy&hide_border=true">
+            <a href="https://github.com/timotheeMM/snake-game/">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=timotheeMM&repo=snake-game&theme=buefy&hide_border=true">
             </a>
         </td>
         <td>
-            <a href="https://github.com/timotheeMM/snake-game/">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=timotheeMM&repo=snake-game&theme=buefy&hide_border=true">
+            <a href="https://github.com/timotheeMM/la-maison-jungle/">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=timotheeMM&repo=la-maison-jungle&theme=buefy&hide_border=true">
             </a>
         </td>
     </tr>
